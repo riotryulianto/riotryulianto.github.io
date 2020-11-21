@@ -28,7 +28,7 @@ twitter_username: riotryulianto
 github_username:  riotryulianto
 
 # Build settings
-theme: minima
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
