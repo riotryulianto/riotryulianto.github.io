@@ -28,7 +28,7 @@ twitter_username: riotryulianto
 github_username:  riotryulianto
 
 # Build settings
-theme: jekyll-theme-primer
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
