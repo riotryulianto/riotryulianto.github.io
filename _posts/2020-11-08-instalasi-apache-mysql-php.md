@@ -127,7 +127,7 @@ Untuk mengetahui service sedang running atau tidak, jalankan:
     systemctl status mysqld
 	
 *****
-
+# Konfigurasi MySQL
 Setelah MySQL selesai diinstal, kemudian jalankan secure installation dengan command: 
 
     sudo mysql_secure_installation
@@ -273,7 +273,7 @@ Kemudian simpan file tersebut.
 Test file PHP yang sudah disimpan dengan membuka browser dan masukkan IP address kedalam address bar.
 Contoh: http://192.168.0.1/info.php
 
-Server telah siap digunakan untuk implementasi aplikasi berbasis PHP. Konfigurasi ini sering disebut sebagai LAMP Stack (Linux, Apache, MySQL, PHP). Salah satu aplikasi web populer berbasis LAMP Stack adalah WordPress. [[Instalasi WordPress]]
+Server telah siap digunakan untuk implementasi aplikasi berbasis PHP. Konfigurasi ini sering disebut sebagai LAMP Stack (Linux, Apache, MySQL, PHP). Salah satu aplikasi web populer berbasis LAMP Stack adalah WordPress.
 
 **Keterangan**:
 \*)  `-y` digunakan untuk persetujuan instalasi tanpa konfirmasi.  
