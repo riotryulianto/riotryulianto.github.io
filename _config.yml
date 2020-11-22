@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 # Site Settings
 locale                   : "en-US"
 title                    : " "
-title_separator          : "-"
+title_separator          : " "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Rio Tri Yulianto"
 description              : "A personal blog and experimental projects."
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Rio Tri Yulianto"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Tinkerer. No, I can't hack someone else's account."
   location         : "Jambi, Indonesia"
   email            :
@@ -284,3 +284,9 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
