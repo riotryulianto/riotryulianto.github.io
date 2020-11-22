@@ -127,7 +127,7 @@ Untuk mengetahui service sedang running atau tidak, jalankan:
     systemctl status mysqld
 	
 *****
-# Konfigurasi MySQL
+# 3. Konfigurasi MySQL
 Setelah MySQL selesai diinstal, kemudian jalankan secure installation dengan command: 
 
     sudo mysql_secure_installation
@@ -198,7 +198,7 @@ installation should now be secure.
 Thanks for using MariaDB!
 ```
 
-# 3. Instalasi PHP
+# 4. Instalasi PHP
 PHP (Hypertext Preprocessor) adalah bahasa pemrograman scripting berbasis server-side yang berfungsi untuk menampilkan halaman web yang dinamis. PHP adalah salah satu bahasa yang paling populer digunakan untuk pengembangan web.
 
 ## Debian
