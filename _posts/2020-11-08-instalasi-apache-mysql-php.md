@@ -4,7 +4,6 @@ title: "Instalasi Apache, MySQL, PHP"
 date:   2020-11-08 14:28:00 +0700
 toc: true
 categories:
-  - Blog
 tags:
   - apache
   - mysql
