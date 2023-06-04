@@ -24,16 +24,51 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+
 domain: riotryulianto.com       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://riotryulianto.com  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /riotryulianto.github.io/      # place folder name if the site is served in a subfolder
+baseurl:     # place folder name if the site is served in a subfolder
+
+# social links
 # twitter_username: jekyllrb
 github_username:  riotryulianto
+# rss: rss
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+linkedin_username: riotryulianto
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+
+# Mastodon instances
+# mastodon:
+# - username: jekyll
+#   instance: example.com
+# - username: jekyll2
+#   instance: example.com
+
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - about.md
+
 
 # Build settings
 theme: minima
+
 plugins:
-  - jekyll-feed
+ - jekyll-feed
+ - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
