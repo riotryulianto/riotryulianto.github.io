@@ -4,7 +4,6 @@ title: "Membuat iFixit Toolkit Versi Low Budget"
 date: "2021-11-30"
 categories: diy
 ---
-# Membuat iFixit Toolkit Versi Low Budget
  Buat yang sering menonton _Tech YouTuber_ luar negeri, pasti sudah nggak asing lagi dengan iklan-iklan yang sering muncul di dalam setiap video mereka. Saking seringnya, kita sampai hafal nama _brand_-nya. Sebelum nonton, kita udah dijejalin iklan _Adsense_, kemudian di awal video udah ada promosi produk dari sponsor, terus di akhir video dikasih promosi produk lagi. Secara nggak sengaja bikin kita jadi ingat terus sama brand-nya. Salah satu brand yang paling sering kita dengar adalah **iFixit**. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/IFixit_logo.svg/800px-IFixit_logo.svg.png)
@@ -41,6 +40,6 @@ Salah satu brand populer yang ada di toko tersebut adalah Jakemy. Brand ini juga
 | [Opening Tool](https://www.tokopedia.com/housesparepart/jakemy-jm-op011-repair-opening-tools-mobile-phone-spudger)             | Rp2.500  | 3            | Rp7.500        |
 | [Suction Handle](https://www.tokopedia.com/housesparepart/opening-tool-merek-jakemy-jm-sk01-original)                          | Rp10.000 | 1            | Rp10.000       | 
 | [Toolbag](https://www.tokopedia.com/housesparepart/jakemy-jm-b09-small-professional-multifunctional-electrician)               | Rp85.000 | 1            | Rp85.000       |
-| **Total Price**                                                                                                                |          |              | ** Rp318.900** |
+| **Total Price**                                                                                                                |          |              | **Rp318.900** |
 
 Hasilnya, dengan budget kurang dari Rp350.000, saya bisa memiliki Repair Toolkit versi saya sendiri, dan tidak perlu lagi takut untuk membongkar gadget karena sudah punya toolkit yang cukup lengkap untuk kebutuhan otak-atik.

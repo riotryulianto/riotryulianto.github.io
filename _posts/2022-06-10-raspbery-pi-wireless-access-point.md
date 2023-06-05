@@ -201,10 +201,10 @@ sudo systemctl start dnsmasq
 Reboot untuk memastikan bahwa Wi-Fi Extender telah berfungsi dengan baik.
 
 ### Referensi:
-- https://pimylifeup.com/raspberry-pi-wireless-access-point/comment-page-1/
+- [Raspberry Pi Wireless Access Point - Pi My Life Up](https://pimylifeup.com/raspberry-pi-wireless-access-point/comment-page-1/)
 
-- https://www.maketecheasier.com/how-to-turn-raspberry-pi-into-wireless-access-point/
+- [How to Turn Your Raspberry Pi into a Wireless Access Point](https://www.maketecheasier.com/how-to-turn-raspberry-pi-into-wireless-access-point/)
 
-- https://raspberrypi-guide.github.io/networking/create-wireless-access-point
+- [Create wireless access point - The Raspberry Pi Guide](https://raspberrypi-guide.github.io/networking/create-wireless-access-point)
 
-- https://forums.fogproject.org/topic/15357/dnsmasq-won-t-start-automatically-solved/2
+- [dnsmasq won't start automatically. [SOLVED] - FOG Project](https://forums.fogproject.org/topic/15357/dnsmasq-won-t-start-automatically-solved/2)

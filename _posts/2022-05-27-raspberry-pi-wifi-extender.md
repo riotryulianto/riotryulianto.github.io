@@ -225,8 +225,8 @@ sudo systemctl start dnsmasq
 Reboot untuk memastikan bahwa Wi-Fi Extender telah berfungsi dengan baik.
 
 ### Referensi:
-- https://pimylifeup.com/raspberry-pi-wifi-extender/
+- [Simple Raspberry Pi WiFi Extender - Pi My Life Up](https://pimylifeup.com/raspberry-pi-wifi-extender/)
 
-- https://github.com/iotJumpway/RPI-Examples/blob/master/_DOCS/4-Securing-Your-Raspberry-Pi-With-IPTables.md
+- [RPI-Examples/4-Securing-Your-Raspberry-Pi-With-IPTables.md at master · iotJumpway/RPI-Examples · GitHub](https://github.com/iotJumpway/RPI-Examples/blob/master/_DOCS/4-Securing-Your-Raspberry-Pi-With-IPTables.md)
 
-- https://forums.fogproject.org/topic/15357/dnsmasq-won-t-start-automatically-solved/2
+- [dnsmasq won't start automatically. [SOLVED] - FOG Project](https://forums.fogproject.org/topic/15357/dnsmasq-won-t-start-automatically-solved/2)
