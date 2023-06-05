@@ -21,7 +21,7 @@
 title: Rio Tri Yulianto
 email: riotryulianto@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog of my DIY journey and my Raspberry Pi, Windows, and Linux experiments.
+  A blog of my DIY journey and my tech experiments.
 
 domain: riotryulianto.com       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://riotryulianto.com  # the base hostname and protocol for your site, e.g. http://example.com
